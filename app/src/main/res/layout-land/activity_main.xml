@@ -14,7 +14,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:text="James Gosling"
+        android:text="@string/textJG"
         android:textSize="25dp" />
 
     <ImageView
@@ -40,7 +40,7 @@
         android:layout_toRightOf="@+id/iv_person"
         android:maxLines="10"
         android:scrollbars="vertical"
-        android:text="James Gosling received a Bachelor of Science from the University of Calgary  and his M.A. and Ph.D. from Carnegie Mellon University. He wrote a version of Emacs called Gosling Emacs (Gosmacs) while working toward his doctorate. He built a multi-processor version of Unix for a 16-way computer system while at Carnegie Mellon University, before joining Sun Microsystems. He also developed several compilers and mail systems there.Gosling was with Sun Microsystems between 1984 and 2010 (26 years). He got the idea for the Java VM while writing a program to port software from a PERQ by translating Perq Q-Code to VAX assembler and emulating the hardware. He left Sun Microsystems on April 2, 2010 after it was acquired by the Oracle Corporation, citing reductions in pay, status, and decision-making ability, along with change of role and ethical challenges. He has since taken a very critical stance towards Oracle in interviews, noting that &quot;during the integration meetings between Sun and Oracle, where we were being grilled about the patent situation between Sun and Google, we could see the Oracle lawyer's eyes sparkle.&quot; He clarified his position during the Oracle v Google trial over Android: &quot;While I have differences with Oracle, in this case, they are on the right. Google totally slimed Sun. We were all really disturbed, even Jonathan Schwartz; he just decided to put on a happy face and tried to turn lemons into lemonade, which annoyed a lot of folks on Sun.&quot; However, he approved of the court's ruling that APIs should not be copyrightable."
+        android:text="@string/textAbstratJG"
         android:textSize="20dp" />
 
 

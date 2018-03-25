@@ -14,7 +14,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:text="Ada Lovelace"
+        android:text="@string/textAL"
         android:textSize="25dp" />
 
     <ImageView
@@ -36,7 +36,7 @@
         android:layout_alignParentStart="true"
         android:maxLines="7"
         android:scrollbars="vertical"
-        android:text="Byron expected his baby to be a &quot;glorious boy&quot; and was disappointed when his wife gave birth to a girl. Augusta was named after Byron's half-sister, Augusta Leigh, and was called &quot;Ada&quot; by Byron himself. On 16 January 1816 Ada's mother, Annabella, at Byron's behest, left for her parents' home at Kirkby Mallory, taking one-month-old Ada with her. Although English law at the time gave fathers full custody of their children in cases of separation, Byron made no attempt to claim his parental rightsut did request that his sister keep him informed of Ada's welfare. On 21 April Byron signed the Deed of Separation, although very reluctantly, and left England for good a few days later. Aside from an acrimonious separation, Annabella continually made allegations about Byron's immoral behaviour throughout her life. This set of events made Ada famous in Victorian society. Byron did not have a relationship with his daughter, and never saw her again. He died in 1824 when she was eight years old. Her mother was the only significant parental figure in her life. Ada was not shown the family portrait of her father (covered in green shroud) until her twentieth birthday. Her mother became Baroness Wentworth in her own right in 1856. Ada was often ill, beginning in early childhood. At the age of eight, she experienced headaches that obscured her vision.In June 1829, she was paralysed after a bout of measles. She was subjected to continuous bed rest for nearly a year, which may have extended her period of disability. By 1831, she was able to walk with crutches. Despite being ill Ada developed her mathematical and technological skills. At age 12 this future &quot;Lady Fairy&quot;, as Charles Babbage affectionately called her, decided she wanted to fly. Ada went about the project methodically, thoughtfully, with imagination and passion. Her first step, in February 1828, was to construct wings. She investigated different material and sizes. She considered various materials for the wings: paper, oilsilk, wires, and feathers. She examined the anatomy of birds to determine the right proportion between the wings and the body. She decided to write a book, Flyology, illustrating, with plates, some of her findings. She decided what equipment she would need; for example, a compass, to &quot;cut across the country by the most direct road&quot;, so that she could surmount mountains, rivers, and valleys. Her final step was to integrate steam with the &quot;art of flying&quot;. "
+        android:text="@string/textAbstratAL"
         android:textSize="25dp" />
 
 </RelativeLayout>
